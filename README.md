@@ -155,3 +155,9 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img a
 
 ## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT?ref=badge_large)
+
+
+
+
+
+***Deploy on [Heroku](https://heroku.com/deploy?template=https://github.com/CYBER-TECH-TEAM/GURU-BOT)***
